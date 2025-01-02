@@ -7,6 +7,7 @@
     "cmath": "cpp",
     "span": "cpp",
     "ostream": "cpp",
-    "istream": "cpp"
+    "istream": "cpp",
+    "algorithm": "cpp"
   }
 }
