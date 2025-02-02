@@ -11,7 +11,6 @@ void solve(){
   for(int i = 0;i<lcm/n2;i++) r2+=s2; 
   if(r1==r2) cout<<r1<<"\n";
   else cout<<-1<<"\n";
-
 }
 int main(){
   int t;
