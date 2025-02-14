@@ -8,6 +8,7 @@
     "span": "cpp",
     "ostream": "cpp",
     "istream": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "numeric": "cpp"
   }
 }
