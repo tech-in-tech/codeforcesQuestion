@@ -1,19 +1,27 @@
 #include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
+void solve(){
+  int a,b,c;
+  cin>>a>>b>>c;
+  // odd - katai turn
+  if(c%2==0){
+    if(a>b) cout<<"First\n";
+    else cout<<"Second"<<"\n"; 
+  }
+
+  // even - anna turn;
+  else{
+    if(a>=b) cout<<"First\n";
+    else cout<<"Second\n";
+  }
+  
+}
 int main(){
-  int n;
-  cin>>n;
-  int sum = n;
-  for(int i = 1;i<n;i++) sum+=(n-i)*i;
-  cout<<sum;
+  int t;
+  cin>>t;
+  while(t--){
+    solve();
+  }
   return 0;
 }
-
-
-// 1 2
-// 1 1 
-// 1 2 3 4 5 6 
-// 6 5 4 3 2 1
-
-// 1 2 3
-// 2 2 2
