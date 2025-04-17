@@ -6,10 +6,9 @@ int main() {
     cin >> t; 
     
     while (t--) {
-        int n; // Input integer n
+        int n; 
         cin >> n;
         
-        // Output the count of ordered pairs (a, b)
         cout << (n - 1) << endl; 
     }
     
