@@ -1,0 +1,1 @@
+{"name":"Local: squareYear","url":"e:\\CodeForces\\squareYear.cpp","tests":[{"id":1748576283308,"input":"5\n0001\n1001\n1000\n4900\n2025","output":"0 1\n-1\n-1\n34 36\n20 25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeForces\\squareYear.cpp","group":"local","local":true}
