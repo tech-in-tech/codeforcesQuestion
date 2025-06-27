@@ -1,0 +1,1 @@
+{"name":"Local: race","url":"e:\\CodeForces\\race.cpp","tests":[{"id":1750915118037,"input":"10\n1 2 3\n1 3 2\n2 1 3\n2 3 1\n3 1 2\n3 2 1\n1 2 3\n1 2 4\n1 3 2\n1 3 4","output":"YES\nYES\nNO\nNO\nYES\nYES\nYES\nYES\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeForces\\race.cpp","group":"local","local":true}
