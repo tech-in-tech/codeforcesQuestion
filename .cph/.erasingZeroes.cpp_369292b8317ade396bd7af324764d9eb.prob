@@ -1,0 +1,1 @@
+{"name":"Local: erasingZeroes","url":"e:\\CodeForces\\erasingZeroes.cpp","tests":[{"id":1753254486812,"input":"3\n010011\n0\n1111000\n","output":"2\n0\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeForces\\erasingZeroes.cpp","group":"local","local":true}
