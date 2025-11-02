@@ -1,0 +1,1 @@
+{"name":"Local: shuffleHashing","url":"e:\\CodeForces\\shuffleHashing.cpp","tests":[{"id":1754546366504,"input":"5\nabacaba\nzyxaabcaabkjh\nonetwothree\nthreetwoone\none\nzzonneyy\none\nnone\ntwenty\nten\n","output":"YES\nYES\nNO\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeForces\\shuffleHashing.cpp","group":"local","local":true}

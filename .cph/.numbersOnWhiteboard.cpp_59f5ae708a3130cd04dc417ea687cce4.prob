@@ -1,0 +1,1 @@
+{"name":"Local: numbersOnWhiteboard","url":"e:\\CodeForces\\numbersOnWhiteboard.cpp","tests":[{"id":1753512668553,"input":"1\n4\n","output":"2\n2 4\n3 3\n3 1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CodeForces\\numbersOnWhiteboard.cpp","group":"local","local":true}
